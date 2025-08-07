@@ -1,0 +1,1 @@
+Este projeto consiste na criação de um relógio digital funcional utilizando JavaScript puro em conjunto com HTML e CSS. O objetivo é exibir em tempo real as horas, minutos e segundos, atualizando a cada segundo automaticamente.
